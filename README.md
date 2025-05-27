@@ -31,6 +31,6 @@ hh:mm:ss value # one measurement per line
 
 ```bash
 gcc -std=c99 heart_rate_analysis.c -o hr_analysis
-
+```
 The program uses only the C standard library, so it builds on any modern compiler (GCC, Clang, MSVC, etc.).
 
